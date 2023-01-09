@@ -1,6 +1,6 @@
 ## Olá, meu nome é Lucas!
 
-> Estudante de Engenharia da Computação da Universidade Estadual de Feira de Santana (UEFS)
+> Estudante de Engenharia da Computação na Universidade Estadual de Feira de Santana (UEFS)
 
 ----
 
