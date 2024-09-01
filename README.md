@@ -24,9 +24,14 @@
 
 ## **GitHub Estatísticas**
 
-<img src="https://streak-stats.demolab.com?user=lpaivao&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://streak-stats.demolab.com?user=lpaivao&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpaivao&hide=html&layout=compact&theme=codeSTACKr" height="150" alt="languages" />
+  </a>
+</div>
 
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lpaivao&hide=html&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Rede Sociais
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lpaivao/)
