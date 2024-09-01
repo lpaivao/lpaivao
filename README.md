@@ -24,10 +24,7 @@
 
 ## **GitHub Estatísticas**
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-[![card](https://github-readme-stats.vercel.app/api?username=lpaivao&theme=codeSTACKr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://streak-stats.demolab.com?user=lpaivao&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lpaivao&hide=html&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -35,7 +32,7 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lpaivao/)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lpaivao/)
 
-#### Email
+#### Contato
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lpaivauefs@gmail.com)](mailto:lpaivauefs@gmail.com)
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:lucaspaiva@windowslive.com)](mailto:lucaspaiva@windowslive.com)
